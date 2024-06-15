@@ -31,6 +31,7 @@ from log import *
 from system import *
 
 import bottle
+#import bottle.ext.sqlite
 from bottle import Bottle
 from bottle import auth_basic
 from bottle import route
