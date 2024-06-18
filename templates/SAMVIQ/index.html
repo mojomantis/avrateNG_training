@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SAMVIQ Interface</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Example of Interface for SAMVIQ (Informative)</h1>
+    </div>
+    <div class="main-content">
+      <div class="reference-image-selection">
+        <h2>Reference Image Selection</h2>
+        <select id="reference-image-select">
+          <option value="Rel">Rel</option>
+          <option value="84">84</option>
+          <option value="66">66</option>
+        </select>
+      </div>
+      <div class="test-image">
+        <h2>Test Image</h2>
+        <img id="test-image" src="test-image.jpg" alt="Test Image">
+      </div>
+      <div class="scoring-slider">
+        <h2>Scoring Slider</h2>
+        <input id="scoring-slider" type="range" min="-100" max="100" value="66">
+        <span id="score-display">Score: 66</span>
+      </div>
+      <div class="processed-image-selection">
+        <h2>Processed Image Selection</h2>
+        <select id="processed-image-select">
+          <option value="bad">Bad</option>
+          <option value="good">Good</option>
+          <option value="excellent">Excellent</option>
+        </select>
+      </div>
+    </div>
+    <div class="footer">
+      <button id="play-button">Play</button>
+      <button id="stop-button">Stop</button>
+      <button id="previous-scene-button">Previous Scene</button>
+      <button id="next-scene-button">Next Scene</button>
+      <button id="end-session-button">End Session</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
