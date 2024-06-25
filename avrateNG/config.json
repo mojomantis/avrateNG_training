@@ -1,0 +1,21 @@
+{
+  "player": "thirdparty\\mpv-x86_64-20180429-git-dc16d85\\mpv.exe  --cursor-autohide=0 --osc=no --no-input-default-bindings --hwdec=auto --ontop --fs {filename}",
+  "player_linux": "mpv --fs --ontop {filename}",
+  "video_player": "mpv",
+  "http_user_name": "max",
+  "http_user_password": "123",
+  "http_port": "8000",
+  "playlist": "playlist.list",
+  "template_folder": "templates",
+  "training": true,
+  "trainingsplaylist": "training.list",
+  "rating_template": "rating/7point_slider.tpl",
+  "shuffle": false,
+  "questionnaire": true,
+  "question": "What is your opinion of the video quality?",
+  "port": 8080,
+  "host": "localhost",
+  "debug": true,
+  "log_file": "avrateng.log"
+
+}

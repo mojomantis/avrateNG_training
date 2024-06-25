@@ -1,0 +1,78 @@
+user_ID,stimuli_ID,stimuli_file,rating_type,rating,timestamp
+1,-1,,user_registered,-1,2024-06-25 14:31:42 130315
+1,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],acr,3,2024-06-25 14:33:38 222326
+1,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],ww,-1,2024-06-25 14:33:38 222326
+1,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],wh,-1,2024-06-25 14:33:38 222326
+1,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],wz,-1,2024-06-25 14:33:38 222326
+1,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 12:33:05 GMT",2024-06-25 14:33:38 222326
+1,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],pi,1,2024-06-25 14:33:38 222326
+1,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],acr,3,2024-06-25 14:34:36 760677
+1,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],ww,-1,2024-06-25 14:34:36 760677
+1,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],wh,-1,2024-06-25 14:34:36 760677
+1,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],wz,-1,2024-06-25 14:34:36 760677
+1,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 12:33:38 GMT",2024-06-25 14:34:36 760677
+1,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],pi,1,2024-06-25 14:34:36 760677
+1,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],acr,4,2024-06-25 14:38:33 643354
+1,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],ww,-1,2024-06-25 14:38:33 643354
+1,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],wh,-1,2024-06-25 14:38:33 643354
+1,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],wz,-1,2024-06-25 14:38:33 643354
+1,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 12:34:37 GMT",2024-06-25 14:38:33 643354
+1,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],pi,1,2024-06-25 14:38:33 643354
+1,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],acr,1,2024-06-25 14:39:05 985737
+1,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],ww,-1,2024-06-25 14:39:05 985737
+1,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],wh,-1,2024-06-25 14:39:05 985737
+1,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],wz,-1,2024-06-25 14:39:05 985737
+1,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 12:38:33 GMT",2024-06-25 14:39:05 985737
+1,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],pi,1,2024-06-25 14:39:05 985737
+1,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],acr,4,2024-06-25 14:39:37 275757
+1,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],ww,-1,2024-06-25 14:39:37 275757
+1,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],wh,-1,2024-06-25 14:39:37 275757
+1,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],wz,-1,2024-06-25 14:39:37 275757
+1,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 12:39:06 GMT",2024-06-25 14:39:37 275757
+1,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],pi,1,2024-06-25 14:39:37 275757
+1,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],acr,5,2024-06-25 14:40:25 386736
+1,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],ww,-1,2024-06-25 14:40:25 386736
+1,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],wh,-1,2024-06-25 14:40:25 386736
+1,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],wz,-1,2024-06-25 14:40:25 386736
+1,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 12:39:37 GMT",2024-06-25 14:40:25 386736
+1,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],pi,1,2024-06-25 14:40:25 386736
+2,-1,,user_registered,-1,2024-06-25 14:48:57 519348
+3,-1,,user_registered,-1,2024-06-25 15:24:06 915731
+4,-1,,user_registered,-1,2024-06-25 15:40:11 406201
+5,-1,,user_registered,-1,2024-06-25 15:43:32 785075
+5,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],acr,5,2024-06-25 15:50:04 218399
+5,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],ww,-1,2024-06-25 15:50:04 218399
+5,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],wh,-1,2024-06-25 15:50:04 218399
+5,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],wz,-1,2024-06-25 15:50:04 218399
+5,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 13:44:43 GMT",2024-06-25 15:50:04 218399
+5,0,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_120fps_30crf_x265.mp4'],pi,1,2024-06-25 15:50:04 218399
+5,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],acr,5,2024-06-25 15:54:48 330586
+5,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],ww,-1,2024-06-25 15:54:48 330586
+5,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],wh,-1,2024-06-25 15:54:48 330586
+5,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],wz,-1,2024-06-25 15:54:48 330586
+5,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 13:50:04 GMT",2024-06-25 15:54:48 330586
+5,1,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_60fps_30crf_x265.mp4'],pi,1,2024-06-25 15:54:48 330586
+5,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],acr,4,2024-06-25 15:55:26 106724
+5,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],ww,-1,2024-06-25 15:55:26 106724
+5,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],wh,-1,2024-06-25 15:55:26 106724
+5,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],wz,-1,2024-06-25 15:55:26 106724
+5,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 13:54:48 GMT",2024-06-25 15:55:26 106724
+5,2,['C:\\Users\\Behzad\\avrateNG\\videos\\output_3840x2160_60fps_30crf_x265.mp4'],pi,1,2024-06-25 15:55:26 106724
+5,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],acr,3,2024-06-25 15:56:03 755966
+5,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],ww,-1,2024-06-25 15:56:03 755966
+5,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],wh,-1,2024-06-25 15:56:03 755966
+5,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],wz,-1,2024-06-25 15:56:03 755966
+5,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 13:55:26 GMT",2024-06-25 15:56:03 755966
+5,3,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1920x1080_120fps_30crf_x265.mp4'],pi,1,2024-06-25 15:56:03 755966
+5,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],acr,5,2024-06-25 15:56:34 652948
+5,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],ww,-1,2024-06-25 15:56:34 652948
+5,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],wh,-1,2024-06-25 15:56:34 652948
+5,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],wz,-1,2024-06-25 15:56:34 652948
+5,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 13:56:04 GMT",2024-06-25 15:56:34 652948
+5,4,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_60fps_30crf_x265.mp4'],pi,1,2024-06-25 15:56:34 652948
+5,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],acr,4,2024-06-25 15:57:09 588352
+5,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],ww,-1,2024-06-25 15:57:09 588352
+5,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],wh,-1,2024-06-25 15:57:09 588352
+5,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],wz,-1,2024-06-25 15:57:09 588352
+5,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],start_timestamp,"Tue, 25 Jun 2024 13:56:35 GMT",2024-06-25 15:57:09 588352
+5,5,['C:\\Users\\Behzad\\avrateNG\\videos\\output_1280x720_120fps_30crf_x265.mp4'],pi,1,2024-06-25 15:57:09 588352
